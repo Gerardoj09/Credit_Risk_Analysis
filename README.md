@@ -3,8 +3,7 @@
 ## Overview
 ### The purpose of this analysis is to use supervised machine learning techniques to predict credit risk to provide a more efficient and reliable loan experience; it also will allow to identify good candidates for loans. All this by building several supervised machine learning models and algorithms using techniques such as resampling and boosting.
 
-## Results
-### Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+## Below, all six machine learning models' results are displayed.
 
 ### 1. Naive Random Oversampling
 #### Balanced accuracy scores = 64.44%
@@ -39,4 +38,8 @@
 
 
 ## Summary
-### Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+### In this case, the results of the machine learning models have all demonstrated an acceptable level of precision, having the last two prospects, five (5) and six (6) with a superior precision over the rest. Moreover, these last two models, also possess a higuer accuracy score:
+### 5. Balanced Random Forest Classifier with a 76.97%, and
+### 6. Easy Ensemble AdaBoost Classifier with a 93.17%
+
+### The recommendation for this specific dataset will be to use an Ensamble Learner model and train a Ease Ensamble Adaboost classifier due to its high level of precision an accuracy.
