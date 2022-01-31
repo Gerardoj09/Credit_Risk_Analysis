@@ -41,4 +41,4 @@
 ### In this case, the results of the machine learning models have all demonstrated an acceptable level of precision, having the last two prospects, five (5) and six (6) with a superior precision over the rest. Moreover, these last two models, also possess a higuer accuracy score:
 ### 5. Balanced Random Forest Classifier with a 76.97%, and
 ### 6. Easy Ensemble AdaBoost Classifier with a 93.17%
-### The recommendation for this specific dataset will be to use an Ensamble Learner model and train a Ease Ensamble Adaboost classifier due to its high level of precision an accuracy.
+### The recommendation for this specific case will be to use an Ensamble Learner model and train a Ease Ensamble Adaboost classifier due to its high level of precision an accuracy.
